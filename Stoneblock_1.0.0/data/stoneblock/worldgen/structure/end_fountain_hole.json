@@ -4,9 +4,9 @@
   "step": "top_layer_modification",
   "spawn_overrides": {},
   "start_pool": "stoneblock:end_fountain_pool",
-  "size": 7,
+  "size": 2,
   "start_height": {
-    "absolute": 164
+    "absolute": 128
   },
   "max_distance_from_center": 128,
   "use_expansion_hack": false
